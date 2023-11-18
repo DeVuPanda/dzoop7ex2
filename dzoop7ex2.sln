@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dzoop7ex2", "dzoop7ex2\dzoop7ex2.csproj", "{88550B20-496D-4C7F-8460-E4ABB5FA7B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88550B20-496D-4C7F-8460-E4ABB5FA7B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88550B20-496D-4C7F-8460-E4ABB5FA7B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88550B20-496D-4C7F-8460-E4ABB5FA7B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88550B20-496D-4C7F-8460-E4ABB5FA7B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D182546-9388-4BD7-9A90-50B13BE54D26}
+	EndGlobalSection
+EndGlobal
